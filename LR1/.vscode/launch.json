@@ -5,7 +5,7 @@
             "name": "C++ Debug (g++ & gdb)",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/a.out",
+            "program": "${workspaceFolder}/test",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
