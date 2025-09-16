@@ -6,6 +6,13 @@ int main(){
     std::cin>>a;
     std::cout<<"Enter b:";
     std::cin>>b;
-    float max=(a>b) ? a:b;
-    std::cout<<"Bigger num is "<<max<<"\n";
+    if (a>b)
+    {
+        std::cout<<"a > b"<<"\n";
+    }else if (a==b)
+    {
+        std::cout<<"a == b"<<"\n";
+    }else{
+        std::cout<<"b > a"<<"\n";
+    }   
 }
