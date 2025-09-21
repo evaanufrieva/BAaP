@@ -8,8 +8,7 @@ int main(){
     std::cout << "Enter z value: ";
     std::cin >> z;
 
-    if (x > 0 && y > 0 && z > 0 && 
-        x + y > z && x + z > y && y + z > x)
+    if (x > 0 && y > 0 && z > 0 && x + y > z && x + z > y && y + z > x)
     {
         std::cout << "YES Triangle";
     } else {
