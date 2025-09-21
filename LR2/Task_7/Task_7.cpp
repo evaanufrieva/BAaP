@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 int main(){
     double a,b,c,Y;
     int N;
@@ -30,7 +29,7 @@ int main(){
         std::cout<<Y;
         break;
     default:
-        Y=pow(a+b,3);
+        Y=(a+b)*(a+b)*(a+b);
         std::cout<<Y;
         break;
     }
