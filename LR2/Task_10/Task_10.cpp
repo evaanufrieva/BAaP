@@ -8,10 +8,10 @@ string checkCircles(int x1, int y1, int r, int x2, int y2, int R){
     int diff=R-r;
     if (diff<0) diff=-diff;
     
-    if (dpow2<(R-r)*(R-r) && R>=r)
+    if (dpow2<=(R-r)*(R-r) && R>=r)
     {
         return "Да";  
-    }else if (dpow2<(r-R)*(r-R) && r>=R)
+    }else if (dpow2<=(r-R)*(r-R) && r>=R)
     {
         return "Да, но справедливо обратное для двух фигур";
     }else if ((diff*diff<dpow2) && dpow2<(R+r)*(R+r))
