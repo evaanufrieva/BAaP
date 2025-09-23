@@ -16,4 +16,5 @@ int main(){
         double S=(pow(A, 2)+ b*cos(x))/(pow(D,3)+(A+D-b));
         std::cout<<"S: "<<S<<"\n";
     }
+    return 0;
 }
