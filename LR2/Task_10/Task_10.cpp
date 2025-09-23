@@ -35,4 +35,5 @@ int main(){
     std::cout<<"Enter radius R: ";
     std::cin>> R;
     std::cout<<checkCircles(x1,y1,r,x2,y2,R);
+    return 0;
 }

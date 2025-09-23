@@ -8,4 +8,5 @@ int main(){
     std::cin>>b;
     float max=(a>b) ? a:b;
     std::cout<<"Bigger num is "<<max<<"\n";
+    return 0;
 }

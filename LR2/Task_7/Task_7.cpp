@@ -33,5 +33,6 @@ int main(){
         std::cout<<Y;
         break;
     }
+    return 0;
 
 }
