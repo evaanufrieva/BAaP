@@ -25,7 +25,7 @@ double corner(double a, double b, double c) { return std::acos((b * b + c * c - 
 
 double rad_to_deg(double rad) { return rad * 180 / M_PI; }
 
-int main(int argc, char const *argv[])
+int main()
 {
     double x1, y1, x2, y2, x3, y3;
     std::cout << "(x1 y1 x2 y2 x3 y3):\t";
