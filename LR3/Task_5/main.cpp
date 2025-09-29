@@ -29,6 +29,8 @@ void calculate(){
         if (std::fabs(fx) < minAbsF) {
             minAbsF = fabs(fx);
             root = x;
+        }else{
+            std::cout << "[DEBUG] x=" << x << " не улучшает минимум (|f(x)|=" << fabs(fx) << ")\n";   
         }
     }
     std::cout << GREEN << "\n[*] Приближенный корень: x = " << root
