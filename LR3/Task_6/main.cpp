@@ -17,18 +17,16 @@ long long factorial(int n) {
     return res;
 }
 
-// приближённое вычисление синуса через ряд Тейлора
 double mySin(double x, double eps = 1e-6) {
-    // нормализация угла (x в пределах [-2π, 2π])
     while (x > 2 * PI) x -= 2 * PI;
     while (x < -2 * PI) x += 2 * PI;
 
-    double term = x;   // первый член ряда
+    double term = x;
     double sum = x;
     int n = 1;
 
     while (myFabs(term) > eps) {
-        term = -term * x * x / ((2 * n) * (2 * n + 1)); // формула для следующего члена
+        term = -term * x * x / ((2 * n) * (2 * n + 1));
         sum += term;
         n++;
     }
@@ -44,12 +42,11 @@ double normalize(double x) {
 double myCos(double x, double eps = 1e-6) {
     x = normalize(x);
 
-    double term = 1.0;   // первый член ряда (1)
+    double term = 1.0;
     double sum = 1.0;
     int n = 1;
 
     while (myFabs(term) > eps) {
-        // формула для следующего члена
         term = -term * x * x / ((2*n-1) * (2*n));
         sum += term;
         n++;
@@ -60,18 +57,16 @@ double myCos(double x, double eps = 1e-6) {
 double myLn(double x, double eps = 1e-6) {
     if (x <= 0) {
         std::cout << RED<<"[!] Ошибка: ln(x) определён только для x > 0\n"<<RESET;
-        // return 1; СПРОСИТЬ ПО ПОВОДУ КАК УБРАТЬ
     }
 
 
-    // подстановка: ln(x) = 2 * (y + y^3/3 + y^5/5 + ...), y = (x-1)/(x+1)
     double y = (x - 1) / (x + 1);
-    double term = y;   // первый член ряда
+    double term = y;
     double sum = y;
     int n = 1;
 
     while (myFabs(term) > eps) {
-        term = term * y * y; // повышаем степень: y^(2n+1)
+        term = term * y * y;
         sum += term / (2 * n + 1);
         n++;
     }
@@ -103,7 +98,7 @@ void help(){
 }
 int main(){
     std::cout<<GREEN
-        <<"\nДобро пожаловать в лабораторную работу №2 Задание 6!\n"
+        <<"\nДобро пожаловать в лабораторную работу 3 Задание 6!\n"
         << "В данной программе реализован расчёт по заданной формуле.\n"
         << RESET;
     help();
