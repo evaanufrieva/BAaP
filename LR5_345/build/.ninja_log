@@ -1,0 +1,25 @@
+# ninja log v5
+9	744	1760981156894915669	CMakeFiles/tests.dir/LR5_3/diag.cpp.o	28e56da968a9fe66
+632	864	1760981157012820137	task5	d7b8c971105f2e91
+6	720	1760981156874587312	CMakeFiles/task3.dir/LR5_3/diag.cpp.o	25ece9163a9a136f
+7	600	1760981156752617174	CMakeFiles/task4.dir/LR5_4/main.cpp.o	531b87db620926ef
+448	631	1760981571922473068	task3	28cad7a6ed0a3815
+8	559	1760981156711960462	CMakeFiles/task5.dir/LR5_5/odd.cpp.o	7116a2a53a601ca3
+11	4437	1760981160578413856	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	9d42b572c3eb345b
+7	632	1760981156785142544	CMakeFiles/task5.dir/LR5_5/main.cpp.o	6e1db14fdebdaefa
+9	591	1760981156744485832	CMakeFiles/tests.dir/LR5_5/odd.cpp.o	af3f22a5588aaa75
+600	829	1760981156976229095	task4	effd51b06ae6ee98
+11	1809	1760981157960121547	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	341725557689a8eb
+8	1701	1760981157854414093	CMakeFiles/tests.dir/tests/tests.cpp.o	bfe5d735e63dcb68
+10	2569	1760981158716336406	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	a3c029ee5acd949f
+4438	4545	1760981160692252653	lib/libgtest.a	e21429778cf18d0f
+7	577	1760981156728223147	CMakeFiles/task4.dir/LR5_4/nullElem.cpp.o	2488ee6e94dc2ab7
+12	1507	1760981157659261871	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	b1a0547292239880
+4604	4817	1760981160968718300	tests[1]_tests.cmake	13c3771dc723e6f2
+4604	4817	1760981160968718300	tests	13c3771dc723e6f2
+4621	4680	1760981160830485476	lib/libgmock_main.a	685aef476c43eaae
+5	448	1760981571739309238	CMakeFiles/task3.dir/LR5_3/main.cpp.o	8524a7d8cffee03e
+4545	4621	1760981160769500407	lib/libgmock.a	aed9b9110c6e7301
+4545	4604	1760981160757303393	lib/libgtest_main.a	30ececf4ed42069a
+9	588	1760981156740420160	CMakeFiles/tests.dir/LR5_4/nullElem.cpp.o	bc970af5d180e017
+4604	4817	1760981160968718300	/home/anufr/45350553501/LR5_345/build/tests[1]_tests.cmake	13c3771dc723e6f2

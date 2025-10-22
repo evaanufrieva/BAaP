@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/task5.dir/Task_5/main.c.o CMakeFiles/task5.dir/Task_5/saper.c.o -o task5 

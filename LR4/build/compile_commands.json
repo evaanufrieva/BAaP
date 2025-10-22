@@ -1,0 +1,116 @@
+[
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/g++  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task1.dir/Task_1/main.cpp.o -c /home/anufr/45350553501/ОАиП/LR4/Task_1/main.cpp",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_1/main.cpp",
+  "output": "CMakeFiles/task1.dir/Task_1/main.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/g++  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task1.dir/Task_1/shift.cpp.o -c /home/anufr/45350553501/ОАиП/LR4/Task_1/shift.cpp",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_1/shift.cpp",
+  "output": "CMakeFiles/task1.dir/Task_1/shift.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/g++  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task2.dir/Task_2/main.cpp.o -c /home/anufr/45350553501/ОАиП/LR4/Task_2/main.cpp",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_2/main.cpp",
+  "output": "CMakeFiles/task2.dir/Task_2/main.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/g++  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task2.dir/Task_2/saddle.cpp.o -c /home/anufr/45350553501/ОАиП/LR4/Task_2/saddle.cpp",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_2/saddle.cpp",
+  "output": "CMakeFiles/task2.dir/Task_2/saddle.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/g++  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task3.dir/Task_3/main.cpp.o -c /home/anufr/45350553501/ОАиП/LR4/Task_3/main.cpp",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_3/main.cpp",
+  "output": "CMakeFiles/task3.dir/Task_3/main.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/g++  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task3.dir/Task_3/even.cpp.o -c /home/anufr/45350553501/ОАиП/LR4/Task_3/even.cpp",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_3/even.cpp",
+  "output": "CMakeFiles/task3.dir/Task_3/even.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/gcc  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task4.dir/Task_4/main.c.o -c /home/anufr/45350553501/ОАиП/LR4/Task_4/main.c",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_4/main.c",
+  "output": "CMakeFiles/task4.dir/Task_4/main.c.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/gcc  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task4.dir/Task_4/diagSum.c.o -c /home/anufr/45350553501/ОАиП/LR4/Task_4/diagSum.c",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_4/diagSum.c",
+  "output": "CMakeFiles/task4.dir/Task_4/diagSum.c.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/gcc  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task5.dir/Task_5/main.c.o -c /home/anufr/45350553501/ОАиП/LR4/Task_5/main.c",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_5/main.c",
+  "output": "CMakeFiles/task5.dir/Task_5/main.c.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/gcc  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task5.dir/Task_5/saper.c.o -c /home/anufr/45350553501/ОАиП/LR4/Task_5/saper.c",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_5/saper.c",
+  "output": "CMakeFiles/task5.dir/Task_5/saper.c.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/gcc  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task6.dir/Task_6/main.c.o -c /home/anufr/45350553501/ОАиП/LR4/Task_6/main.c",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_6/main.c",
+  "output": "CMakeFiles/task6.dir/Task_6/main.c.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/gcc  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -o CMakeFiles/task6.dir/Task_6/magicSqr.c.o -c /home/anufr/45350553501/ОАиП/LR4/Task_6/magicSqr.c",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_6/magicSqr.c",
+  "output": "CMakeFiles/task6.dir/Task_6/magicSqr.c.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/g++  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtests_program.dir/tests/tests.cpp.o -c /home/anufr/45350553501/ОАиП/LR4/tests/tests.cpp",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/tests/tests.cpp",
+  "output": "CMakeFiles/gtests_program.dir/tests/tests.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/g++  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtests_program.dir/Task_1/shift.cpp.o -c /home/anufr/45350553501/ОАиП/LR4/Task_1/shift.cpp",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_1/shift.cpp",
+  "output": "CMakeFiles/gtests_program.dir/Task_1/shift.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/g++  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtests_program.dir/Task_3/even.cpp.o -c /home/anufr/45350553501/ОАиП/LR4/Task_3/even.cpp",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_3/even.cpp",
+  "output": "CMakeFiles/gtests_program.dir/Task_3/even.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/g++  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtests_program.dir/Task_2/saddle.cpp.o -c /home/anufr/45350553501/ОАиП/LR4/Task_2/saddle.cpp",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_2/saddle.cpp",
+  "output": "CMakeFiles/gtests_program.dir/Task_2/saddle.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/gcc  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtests_program.dir/Task_4/diagSum.c.o -c /home/anufr/45350553501/ОАиП/LR4/Task_4/diagSum.c",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_4/diagSum.c",
+  "output": "CMakeFiles/gtests_program.dir/Task_4/diagSum.c.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/gcc  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtests_program.dir/Task_5/saper.c.o -c /home/anufr/45350553501/ОАиП/LR4/Task_5/saper.c",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_5/saper.c",
+  "output": "CMakeFiles/gtests_program.dir/Task_5/saper.c.o"
+},
+{
+  "directory": "/home/anufr/45350553501/ОАиП/LR4/build",
+  "command": "/usr/bin/gcc  -I/home/anufr/45350553501/ОАиП/LR4/Task_1 -I/home/anufr/45350553501/ОАиП/LR4/Task_2 -I/home/anufr/45350553501/ОАиП/LR4/Task_3 -I/home/anufr/45350553501/ОАиП/LR4/Task_4 -I/home/anufr/45350553501/ОАиП/LR4/Task_5 -I/home/anufr/45350553501/ОАиП/LR4/Task_6 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtests_program.dir/Task_6/magicSqr.c.o -c /home/anufr/45350553501/ОАиП/LR4/Task_6/magicSqr.c",
+  "file": "/home/anufr/45350553501/ОАиП/LR4/Task_6/magicSqr.c",
+  "output": "CMakeFiles/gtests_program.dir/Task_6/magicSqr.c.o"
+}
+]

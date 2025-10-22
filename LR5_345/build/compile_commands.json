@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -g -std=gnu++17 -o CMakeFiles/task3.dir/LR5_3/main.cpp.o -c /home/anufr/45350553501/LR5_345/LR5_3/main.cpp",
+  "file": "/home/anufr/45350553501/LR5_345/LR5_3/main.cpp",
+  "output": "CMakeFiles/task3.dir/LR5_3/main.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -g -std=gnu++17 -o CMakeFiles/task3.dir/LR5_3/diag.cpp.o -c /home/anufr/45350553501/LR5_345/LR5_3/diag.cpp",
+  "file": "/home/anufr/45350553501/LR5_345/LR5_3/diag.cpp",
+  "output": "CMakeFiles/task3.dir/LR5_3/diag.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -g -std=gnu++17 -o CMakeFiles/task4.dir/LR5_4/main.cpp.o -c /home/anufr/45350553501/LR5_345/LR5_4/main.cpp",
+  "file": "/home/anufr/45350553501/LR5_345/LR5_4/main.cpp",
+  "output": "CMakeFiles/task4.dir/LR5_4/main.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -g -std=gnu++17 -o CMakeFiles/task4.dir/LR5_4/nullElem.cpp.o -c /home/anufr/45350553501/LR5_345/LR5_4/nullElem.cpp",
+  "file": "/home/anufr/45350553501/LR5_345/LR5_4/nullElem.cpp",
+  "output": "CMakeFiles/task4.dir/LR5_4/nullElem.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -g -std=gnu++17 -o CMakeFiles/task5.dir/LR5_5/main.cpp.o -c /home/anufr/45350553501/LR5_345/LR5_5/main.cpp",
+  "file": "/home/anufr/45350553501/LR5_345/LR5_5/main.cpp",
+  "output": "CMakeFiles/task5.dir/LR5_5/main.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -g -std=gnu++17 -o CMakeFiles/task5.dir/LR5_5/odd.cpp.o -c /home/anufr/45350553501/LR5_345/LR5_5/odd.cpp",
+  "file": "/home/anufr/45350553501/LR5_345/LR5_5/odd.cpp",
+  "output": "CMakeFiles/task5.dir/LR5_5/odd.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest -g -std=gnu++17 -o CMakeFiles/tests.dir/tests/tests.cpp.o -c /home/anufr/45350553501/LR5_345/tests/tests.cpp",
+  "file": "/home/anufr/45350553501/LR5_345/tests/tests.cpp",
+  "output": "CMakeFiles/tests.dir/tests/tests.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest -g -std=gnu++17 -o CMakeFiles/tests.dir/LR5_3/diag.cpp.o -c /home/anufr/45350553501/LR5_345/LR5_3/diag.cpp",
+  "file": "/home/anufr/45350553501/LR5_345/LR5_3/diag.cpp",
+  "output": "CMakeFiles/tests.dir/LR5_3/diag.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest -g -std=gnu++17 -o CMakeFiles/tests.dir/LR5_4/nullElem.cpp.o -c /home/anufr/45350553501/LR5_345/LR5_4/nullElem.cpp",
+  "file": "/home/anufr/45350553501/LR5_345/LR5_4/nullElem.cpp",
+  "output": "CMakeFiles/tests.dir/LR5_4/nullElem.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest -g -std=gnu++17 -o CMakeFiles/tests.dir/LR5_5/odd.cpp.o -c /home/anufr/45350553501/LR5_345/LR5_5/odd.cpp",
+  "file": "/home/anufr/45350553501/LR5_345/LR5_5/odd.cpp",
+  "output": "CMakeFiles/tests.dir/LR5_5/odd.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -I/home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googlemock/include -I/home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googlemock -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -isystem /home/anufr/45350553501/LR5_345/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googlemock/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googlemock -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -I/home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/include -I/home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR5_345/build",
+  "command": "/usr/bin/g++ -I/home/anufr/45350553501/LR5_345/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/include -isystem /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/anufr/45350553501/LR5_345/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

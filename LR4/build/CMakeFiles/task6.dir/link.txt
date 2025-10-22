@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/task6.dir/Task_6/main.c.o CMakeFiles/task6.dir/Task_6/magicSqr.c.o -o task6 

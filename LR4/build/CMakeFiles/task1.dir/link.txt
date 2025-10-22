@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/task1.dir/Task_1/main.cpp.o CMakeFiles/task1.dir/Task_1/shift.cpp.o -o task1 

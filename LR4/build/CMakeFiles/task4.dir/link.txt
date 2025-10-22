@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/task4.dir/Task_4/main.c.o CMakeFiles/task4.dir/Task_4/diagSum.c.o -o task4 
