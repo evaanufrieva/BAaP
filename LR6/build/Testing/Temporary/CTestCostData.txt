@@ -1,0 +1,11 @@
+BinaryGroupsTest.AllEven 1 0.00697201
+BinaryGroupsTest.NoEvenGroups 1 0.00494378
+BinaryGroupsTest.EmptyInput 1 0.00493351
+BinaryGroupsTest.OneChar 1 0.00426115
+BinaryGroupsTest.AllZerosEven 1 0.00382549
+BinaryGroupsTest.Alternating 1 0.00373324
+BinaryGroupsTest.LongInput 1 0.00383705
+BinaryGroupsTest.MixedGroups 0 0
+BinaryGroupsTest.InvalidCharIgnored 0 0
+---
+BinaryGroupsTest.InvalidCharIgnored

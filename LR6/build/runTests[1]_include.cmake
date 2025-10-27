@@ -1,0 +1,5 @@
+if(EXISTS "/home/anufr/45350553501/LR6/build/runTests[1]_tests.cmake")
+  include("/home/anufr/45350553501/LR6/build/runTests[1]_tests.cmake")
+else()
+  add_test(runTests_NOT_BUILT runTests_NOT_BUILT)
+endif()

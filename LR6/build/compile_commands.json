@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/anufr/45350553501/LR6/build",
+  "command": "/usr/bin/clang++ -I/home/anufr/45350553501/LR6/include -g -o CMakeFiles/Task_1.dir/Task_1/main.cpp.o -c /home/anufr/45350553501/LR6/Task_1/main.cpp",
+  "file": "/home/anufr/45350553501/LR6/Task_1/main.cpp",
+  "output": "CMakeFiles/Task_1.dir/Task_1/main.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR6/build",
+  "command": "/usr/bin/clang++ -I/home/anufr/45350553501/LR6/include -g -o CMakeFiles/Task_1.dir/Task_1/even_groups.cpp.o -c /home/anufr/45350553501/LR6/Task_1/even_groups.cpp",
+  "file": "/home/anufr/45350553501/LR6/Task_1/even_groups.cpp",
+  "output": "CMakeFiles/Task_1.dir/Task_1/even_groups.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR6/build",
+  "command": "/usr/bin/clang++ -I/home/anufr/45350553501/LR6/include -g -o CMakeFiles/Task_2.dir/Task_2/main.cpp.o -c /home/anufr/45350553501/LR6/Task_2/main.cpp",
+  "file": "/home/anufr/45350553501/LR6/Task_2/main.cpp",
+  "output": "CMakeFiles/Task_2.dir/Task_2/main.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR6/build",
+  "command": "/usr/bin/clang++ -I/home/anufr/45350553501/LR6/include -g -o CMakeFiles/Task_2.dir/Task_2/substr.cpp.o -c /home/anufr/45350553501/LR6/Task_2/substr.cpp",
+  "file": "/home/anufr/45350553501/LR6/Task_2/substr.cpp",
+  "output": "CMakeFiles/Task_2.dir/Task_2/substr.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR6/build",
+  "command": "/usr/bin/clang++ -I/home/anufr/45350553501/LR6/include -g -o CMakeFiles/Task_3.dir/Task_3/main.cpp.o -c /home/anufr/45350553501/LR6/Task_3/main.cpp",
+  "file": "/home/anufr/45350553501/LR6/Task_3/main.cpp",
+  "output": "CMakeFiles/Task_3.dir/Task_3/main.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR6/build",
+  "command": "/usr/bin/clang++ -I/home/anufr/45350553501/LR6/include -g -o CMakeFiles/Task_3.dir/Task_3/inplace.cpp.o -c /home/anufr/45350553501/LR6/Task_3/inplace.cpp",
+  "file": "/home/anufr/45350553501/LR6/Task_3/inplace.cpp",
+  "output": "CMakeFiles/Task_3.dir/Task_3/inplace.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR6/build",
+  "command": "/usr/bin/clang++ -I/home/anufr/45350553501/LR6/include -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/tests/gtests.cpp.o -c /home/anufr/45350553501/LR6/tests/gtests.cpp",
+  "file": "/home/anufr/45350553501/LR6/tests/gtests.cpp",
+  "output": "CMakeFiles/runTests.dir/tests/gtests.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR6/build",
+  "command": "/usr/bin/clang++ -I/home/anufr/45350553501/LR6/include -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/Task_1/even_groups.cpp.o -c /home/anufr/45350553501/LR6/Task_1/even_groups.cpp",
+  "file": "/home/anufr/45350553501/LR6/Task_1/even_groups.cpp",
+  "output": "CMakeFiles/runTests.dir/Task_1/even_groups.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR6/build",
+  "command": "/usr/bin/clang++ -I/home/anufr/45350553501/LR6/include -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/Task_2/substr.cpp.o -c /home/anufr/45350553501/LR6/Task_2/substr.cpp",
+  "file": "/home/anufr/45350553501/LR6/Task_2/substr.cpp",
+  "output": "CMakeFiles/runTests.dir/Task_2/substr.cpp.o"
+},
+{
+  "directory": "/home/anufr/45350553501/LR6/build",
+  "command": "/usr/bin/clang++ -I/home/anufr/45350553501/LR6/include -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/Task_3/inplace.cpp.o -c /home/anufr/45350553501/LR6/Task_3/inplace.cpp",
+  "file": "/home/anufr/45350553501/LR6/Task_3/inplace.cpp",
+  "output": "CMakeFiles/runTests.dir/Task_3/inplace.cpp.o"
+}
+]

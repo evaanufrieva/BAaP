@@ -1,0 +1,7 @@
+/home/anufr/45350553501/LR6/build/CMakeFiles/Task_1.dir
+/home/anufr/45350553501/LR6/build/CMakeFiles/Task_2.dir
+/home/anufr/45350553501/LR6/build/CMakeFiles/Task_3.dir
+/home/anufr/45350553501/LR6/build/CMakeFiles/runTests.dir
+/home/anufr/45350553501/LR6/build/CMakeFiles/test.dir
+/home/anufr/45350553501/LR6/build/CMakeFiles/edit_cache.dir
+/home/anufr/45350553501/LR6/build/CMakeFiles/rebuild_cache.dir
