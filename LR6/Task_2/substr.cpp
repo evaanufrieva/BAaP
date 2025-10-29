@@ -13,11 +13,10 @@ SubStr::~SubStr()
 bool SubStr::readInput()
 {
     char buffer[201];
-
     do
     {
-        std::cout << "Введите текст";
-        std::cin.getline(buffer, 201);
+        std::cout << "Введите текст ";
+        std::cin.getline(buffer, sizeof(buffer));
         textLength = strlen(buffer);
         if (textLength == 0)
         {
@@ -27,7 +26,10 @@ bool SubStr::readInput()
 
     delete[] input;
     input = new char[textLength + 1];
-    strcpy(input, buffer);
+    for (size_t i = 0; i <= textLength; ++i)
+    {
+        input[i] = buffer[i];
+    }
 
     std::string line;
     do
@@ -39,7 +41,7 @@ bool SubStr::readInput()
             std::cout << "Ошибка: символ не может быть пустым!\n";
         }
     } while (line.empty());
-    symbol = line[0]; 
+    symbol = line[0];
 
     do
     {
@@ -55,7 +57,10 @@ bool SubStr::readInput()
 
     delete[] substr;
     substr = new char[substringLength + 1];
-    strcpy(substr, buffer);
+    for (size_t i = 0; i <= substringLength; ++i)
+    {
+        substr[i] = buffer[i];
+    }
 
     return true;
 }
@@ -65,6 +70,7 @@ void SubStr::placeSubStr()
 {
     if (!input || !substr || textLength == 0 || substringLength == 0)
         return;
+
     int pos = -1;
     for (int i = 0; i < textLength; i++)
     {
@@ -74,20 +80,32 @@ void SubStr::placeSubStr()
             break;
         }
     }
+
     if (pos == -1)
     {
         std::cout << "Символ '" << symbol << "' не найден.\n";
         return;
     }
+
     size_t newLen = textLength + substringLength;
     char* newText = new char[newLen + 1];
 
-    strncpy(newText, input, pos + 1);
-    newText[pos + 1] = '\0';
+    for (int i = 0; i <= pos; ++i)
+    {
+        newText[i] = input[i];
+    }
 
-    strcat(newText, substr);
+    for (int i = 0; i < substringLength; ++i)
+    {
+        newText[pos + 1 + i] = substr[i];
+    }
 
-    strcat(newText, input + pos + 1);
+    for (int i = pos + 1; i < textLength; ++i)
+    {
+        newText[substringLength + i] = input[i];
+    }
+
+    newText[newLen] = '\0';
 
     delete[] input;
     input = newText;

@@ -41,17 +41,7 @@ bool InPlace::readInput()
 
     return true;
 }
-void InPlace::reverce(int start, int end)
-{
-    while (start < end)
-    {
-        char tmp = input[start];
-        input[start] = input[end];
-        input[end] = tmp;
-        start++;
-        end--;
-    }
-}
+
 void InPlace::inplaceWords()
 {
     int start = 0;

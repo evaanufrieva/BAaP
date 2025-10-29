@@ -3,10 +3,11 @@ project(LR6)
 
 
 #set(CMAKE_CXX_CPPCHECK "cppcheck")
-set(CMAKE_CXX_CLANG_TIDY "clang-tidy" "-checks=some-check")
+set(CMAKE_CXX_CLANG_TIDY "clang-tidy;-checks=*")
 set(FILE_NAME_CPP "main.cpp")
 set(CPP_SOURCES Task_1 Task_2 Task_3)
-set(SANITIZER "address")
+set(SANITIZER "address;thread")
+
 
 include_directories(include)
 

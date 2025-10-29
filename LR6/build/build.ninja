@@ -50,7 +50,7 @@ cmake_ninja_workdir = /home/anufr/45350553501/LR6/build/
 build cmake_object_order_depends_target_Task_1: phony || CMakeFiles/Task_1.dir
 
 build CMakeFiles/Task_1.dir/Task_1/main.cpp.o: CXX_COMPILER__Task_1_unscanned_Debug /home/anufr/45350553501/LR6/Task_1/main.cpp || cmake_object_order_depends_target_Task_1
-  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=some-check;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_1/main.cpp -- 
+  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=*;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_1/main.cpp -- 
   DEP_FILE = CMakeFiles/Task_1.dir/Task_1/main.cpp.o.d
   FLAGS = -g
   INCLUDES = -I/home/anufr/45350553501/LR6/include
@@ -58,7 +58,7 @@ build CMakeFiles/Task_1.dir/Task_1/main.cpp.o: CXX_COMPILER__Task_1_unscanned_De
   OBJECT_FILE_DIR = CMakeFiles/Task_1.dir/Task_1
 
 build CMakeFiles/Task_1.dir/Task_1/even_groups.cpp.o: CXX_COMPILER__Task_1_unscanned_Debug /home/anufr/45350553501/LR6/Task_1/even_groups.cpp || cmake_object_order_depends_target_Task_1
-  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=some-check;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_1/even_groups.cpp -- 
+  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=*;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_1/even_groups.cpp -- 
   DEP_FILE = CMakeFiles/Task_1.dir/Task_1/even_groups.cpp.o.d
   FLAGS = -g
   INCLUDES = -I/home/anufr/45350553501/LR6/include
@@ -91,7 +91,7 @@ build Task_1: CXX_EXECUTABLE_LINKER__Task_1_Debug CMakeFiles/Task_1.dir/Task_1/m
 build cmake_object_order_depends_target_Task_2: phony || CMakeFiles/Task_2.dir
 
 build CMakeFiles/Task_2.dir/Task_2/main.cpp.o: CXX_COMPILER__Task_2_unscanned_Debug /home/anufr/45350553501/LR6/Task_2/main.cpp || cmake_object_order_depends_target_Task_2
-  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=some-check;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_2/main.cpp -- 
+  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=*;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_2/main.cpp -- 
   DEP_FILE = CMakeFiles/Task_2.dir/Task_2/main.cpp.o.d
   FLAGS = -g
   INCLUDES = -I/home/anufr/45350553501/LR6/include
@@ -99,7 +99,7 @@ build CMakeFiles/Task_2.dir/Task_2/main.cpp.o: CXX_COMPILER__Task_2_unscanned_De
   OBJECT_FILE_DIR = CMakeFiles/Task_2.dir/Task_2
 
 build CMakeFiles/Task_2.dir/Task_2/substr.cpp.o: CXX_COMPILER__Task_2_unscanned_Debug /home/anufr/45350553501/LR6/Task_2/substr.cpp || cmake_object_order_depends_target_Task_2
-  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=some-check;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_2/substr.cpp -- 
+  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=*;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_2/substr.cpp -- 
   DEP_FILE = CMakeFiles/Task_2.dir/Task_2/substr.cpp.o.d
   FLAGS = -g
   INCLUDES = -I/home/anufr/45350553501/LR6/include
@@ -132,7 +132,7 @@ build Task_2: CXX_EXECUTABLE_LINKER__Task_2_Debug CMakeFiles/Task_2.dir/Task_2/m
 build cmake_object_order_depends_target_Task_3: phony || CMakeFiles/Task_3.dir
 
 build CMakeFiles/Task_3.dir/Task_3/main.cpp.o: CXX_COMPILER__Task_3_unscanned_Debug /home/anufr/45350553501/LR6/Task_3/main.cpp || cmake_object_order_depends_target_Task_3
-  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=some-check;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_3/main.cpp -- 
+  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=*;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_3/main.cpp -- 
   DEP_FILE = CMakeFiles/Task_3.dir/Task_3/main.cpp.o.d
   FLAGS = -g
   INCLUDES = -I/home/anufr/45350553501/LR6/include
@@ -140,7 +140,7 @@ build CMakeFiles/Task_3.dir/Task_3/main.cpp.o: CXX_COMPILER__Task_3_unscanned_De
   OBJECT_FILE_DIR = CMakeFiles/Task_3.dir/Task_3
 
 build CMakeFiles/Task_3.dir/Task_3/inplace.cpp.o: CXX_COMPILER__Task_3_unscanned_Debug /home/anufr/45350553501/LR6/Task_3/inplace.cpp || cmake_object_order_depends_target_Task_3
-  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=some-check;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_3/inplace.cpp -- 
+  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=*;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_3/inplace.cpp -- 
   DEP_FILE = CMakeFiles/Task_3.dir/Task_3/inplace.cpp.o.d
   FLAGS = -g
   INCLUDES = -I/home/anufr/45350553501/LR6/include
@@ -173,7 +173,7 @@ build Task_3: CXX_EXECUTABLE_LINKER__Task_3_Debug CMakeFiles/Task_3.dir/Task_3/m
 build cmake_object_order_depends_target_runTests: phony || CMakeFiles/runTests.dir
 
 build CMakeFiles/runTests.dir/tests/gtests.cpp.o: CXX_COMPILER__runTests_unscanned_Debug /home/anufr/45350553501/LR6/tests/gtests.cpp || cmake_object_order_depends_target_runTests
-  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=some-check;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/tests/gtests.cpp -- 
+  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=*;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/tests/gtests.cpp -- 
   DEP_FILE = CMakeFiles/runTests.dir/tests/gtests.cpp.o.d
   FLAGS = -g -DGTEST_HAS_PTHREAD=1
   INCLUDES = -I/home/anufr/45350553501/LR6/include
@@ -181,7 +181,7 @@ build CMakeFiles/runTests.dir/tests/gtests.cpp.o: CXX_COMPILER__runTests_unscann
   OBJECT_FILE_DIR = CMakeFiles/runTests.dir/tests
 
 build CMakeFiles/runTests.dir/Task_1/even_groups.cpp.o: CXX_COMPILER__runTests_unscanned_Debug /home/anufr/45350553501/LR6/Task_1/even_groups.cpp || cmake_object_order_depends_target_runTests
-  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=some-check;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_1/even_groups.cpp -- 
+  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=*;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_1/even_groups.cpp -- 
   DEP_FILE = CMakeFiles/runTests.dir/Task_1/even_groups.cpp.o.d
   FLAGS = -g -DGTEST_HAS_PTHREAD=1
   INCLUDES = -I/home/anufr/45350553501/LR6/include
@@ -189,7 +189,7 @@ build CMakeFiles/runTests.dir/Task_1/even_groups.cpp.o: CXX_COMPILER__runTests_u
   OBJECT_FILE_DIR = CMakeFiles/runTests.dir/Task_1
 
 build CMakeFiles/runTests.dir/Task_2/substr.cpp.o: CXX_COMPILER__runTests_unscanned_Debug /home/anufr/45350553501/LR6/Task_2/substr.cpp || cmake_object_order_depends_target_runTests
-  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=some-check;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_2/substr.cpp -- 
+  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=*;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_2/substr.cpp -- 
   DEP_FILE = CMakeFiles/runTests.dir/Task_2/substr.cpp.o.d
   FLAGS = -g -DGTEST_HAS_PTHREAD=1
   INCLUDES = -I/home/anufr/45350553501/LR6/include
@@ -197,7 +197,7 @@ build CMakeFiles/runTests.dir/Task_2/substr.cpp.o: CXX_COMPILER__runTests_unscan
   OBJECT_FILE_DIR = CMakeFiles/runTests.dir/Task_2
 
 build CMakeFiles/runTests.dir/Task_3/inplace.cpp.o: CXX_COMPILER__runTests_unscanned_Debug /home/anufr/45350553501/LR6/Task_3/inplace.cpp || cmake_object_order_depends_target_runTests
-  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=some-check;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_3/inplace.cpp -- 
+  CODE_CHECK = /usr/bin/cmake -E __run_co_compile --tidy="clang-tidy;-checks=*;--extra-arg-before=--driver-mode=g++" --source=/home/anufr/45350553501/LR6/Task_3/inplace.cpp -- 
   DEP_FILE = CMakeFiles/runTests.dir/Task_3/inplace.cpp.o.d
   FLAGS = -g -DGTEST_HAS_PTHREAD=1
   INCLUDES = -I/home/anufr/45350553501/LR6/include
